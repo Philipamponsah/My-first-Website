@@ -1,0 +1,36 @@
+body {
+  background-color: #a7dbe3;
+  background-image: url(../img/weather.png);
+  color: #4e476a;
+  font-size: 21px;
+
+  font-family: calibri,candara,segoe,"Segoe UI",optima,Arial,sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  color: #454d98;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+header {
+  background-color: #326273;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.container {
+  background: white;
+  width: 70%;
+  max-width: 1000px;
+
+  margin: 0 auto;
+}
